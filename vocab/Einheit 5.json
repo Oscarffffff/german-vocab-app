@@ -1,0 +1,793 @@
+[
+    {
+      "gender": "der",
+      "word": "Käse",
+      "meaning": "奶酪",
+      "sentence": "Käse ist aus Milch.",
+      "variant": "Käse"
+    },
+    {
+      "gender": "das",
+      "word": "Bier",
+      "meaning": "啤酒",
+      "sentence": "Trinken Sie Bier?",
+      "variant": "Biere"
+    },
+    {
+      "gender": "die",
+      "word": "Wurst",
+      "meaning": "香肠",
+      "sentence": "Isst du gerne Wurst?",
+      "variant": "Würste"
+    },
+    {
+      "gender": "der",
+      "word": "Reis",
+      "meaning": "米饭",
+      "sentence": "Wir essen gern Reis.",
+      "variant": "Reise"
+    },
+    {
+      "gender": "die",
+      "word": "Kartoffel",
+      "meaning": "土豆",
+      "sentence": "Li Ming isst nicht gern Kartoffeln.",
+      "variant": "Kartoffeln"
+    },
+    {
+      "gender": "die",
+      "word": "Milch",
+      "meaning": "奶",
+      "sentence": "Trinkst du täglich Milch?",
+      "variant": "Milche"
+    },
+    {
+      "gender": "das",
+      "word": "Brot",
+      "meaning": "面包",
+      "sentence": "Das Brot ist alt.",
+      "variant": "Brote"
+    },
+    {
+      "gender": "das",
+      "word": "Brötchen",
+      "meaning": "小面包",
+      "sentence": "Ich esse lieber Brötchen.",
+      "variant": "Brötchen"
+    },
+    {
+      "gender": "das",
+      "word": "Fleisch",
+      "meaning": "肉",
+      "sentence": "Essen Sie bitte nicht zu viel Fleisch.",
+      "variant": "Fleische"
+    },
+    {
+      "gender": "der",
+      "word": "Fisch",
+      "meaning": "鱼",
+      "sentence": "Rolli hat einen Fisch und isst ihn aber nicht.",
+      "variant": "Fische"
+    },
+    {
+      "gender": "das",
+      "word": "Ei",
+      "meaning": "鸡蛋", 
+      "sentence": "Woher kommt das Ei?",
+      "variant": "Eier"
+    },
+    {
+      "gender": "das",
+      "word": "Restaurant",
+      "meaning": "餐厅",
+      "sentence": "Das ist ein China-Restaurant.",
+      "variant": "Restaurants"
+    },
+    {
+      "gender": "die",
+      "word": "Speisekarte",
+      "meaning": "菜单",
+      "sentence": "Er macht die Speisekarte auf.",
+      "variant": "Speisekarten"
+    },
+    {
+      "gender": null,
+      "word": "hinein/schauen",
+      "meaning": "向里看，往里瞧",
+      "sentence": "Schauen wir mal in die Speisekarte hinein.",
+      "variant": "hinein/schaut"
+    },
+    {
+      "gender": "das",
+      "word": "Schnitzel",
+      "meaning": "肉排",
+      "sentence": "Ich esse ein Schnitzel.",
+      "variant": "Schnitzel"
+    },
+    {
+      "gender": null,
+      "word": "Pommes Frites",
+      "meaning": "薯条",
+      "sentence": "Pommes Frites sind nicht so gesund.",
+      "variant": "Pommes Frites"
+    },
+    {
+      "gender": "der",
+      "word": "Schweinebraten",
+      "meaning": "煎猪肉",
+      "sentence": "Er isst einen Schweinebraten.",
+      "variant": "Schweinebraten"
+    },
+    {
+      "gender": "das",
+      "word": "Klößchen",
+      "meaning": "小丸子",
+      "sentence": "Es gibt zu Mittag Klößchen.",
+      "variant": "Klößchen"
+    },
+    {
+      "gender": "das",
+      "word": "Rindersteak",
+      "meaning": "牛排",
+      "sentence": "Sie isst ein Rindersteak.",
+      "variant": "Rindersteak"
+    },
+    {
+      "gender": "die",
+      "word": "Bratkartoffeln",
+      "meaning": "油煎土豆",
+      "sentence": "Xiaoming bestellt Bratkartoffeln.",
+      "variant": "Bratkartoffeln"
+    },
+    {
+      "gender": "der",
+      "word": "Salat",
+      "meaning": "色拉",
+      "sentence": "Es gibt Obstsalat, Kartoffelsalat usw.",
+      "variant": "Salate"
+    },
+    {
+      "gender": "die",
+      "word": "Zwiebel",
+      "meaning": "洋葱",
+      "sentence": "Zwiebeln sind gesund.",
+      "variant": "Zwiebeln"
+    },
+    {
+      "gender": "die",
+      "word": "Suppe",
+      "meaning": "汤",
+      "sentence": "Man isst eine Suppe und trinkt ein Bier.",
+      "variant": "Suppen"
+    },
+    {
+      "gender": "die",
+      "word": "Vorspeise",
+      "meaning": "前菜",
+      "sentence": "Ich möchte eine Suppe als Vorspeise.",
+      "variant": "Vorspeisen"
+    },
+    {
+        "gender": null,
+        "word": "bestellen",
+        "meaning": "点菜订购",
+        "sentence": "Li Xiaoming bestellt Schnitzel mit Kartoffeln.",
+        "variant": "bestellt"
+    },
+    {
+        "gender": "der",
+        "word": "Kellner",
+        "meaning": "（餐厅）男服务员",
+        "sentence": "Der Kellner ist sehr nett.",
+        "variant": "Kellner"
+    },
+    {
+        "gender": "der",
+        "word": "Saft",
+        "meaning": "果汁",
+        "sentence": "Li bestellt einen Apfelsaft noch.",
+        "variant": "Säfte"
+    },
+    {
+        "gender": null,
+        "word": "einfach",
+        "meaning": "干脆，简直，根本，简单",
+        "sentence": "Trink einfach ein Bier!",
+        "variant": null
+    },
+    {
+      "gender": null,
+      "word": "wünschen",
+      "meaning": "想要",
+      "sentence": "Was wünschen Sie sonst noch?",
+      "variant": "wünscht"
+      },
+      {
+      "gender": "der",
+      "word": "Appetit",
+      "meaning": "胃口",
+      "sentence": "Guten Appetit!",
+      "variant": "Appetit"
+      },
+      {
+      "gender": null,
+      "word": "Prost",
+      "meaning": "干杯",
+      "sentence": "Prosti!",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "gleichfalls",
+      "meaning": "同样的（用于应答对方的祝愿）",
+      "sentence": "Gleichfalls!",
+      "variant": null
+      },
+      {
+      "gender": null, 
+      "word": "schmecken",
+      "meaning": "尝起来，吃起来",
+      "sentence": "Mir schmeckt das Rindersteak auch sehr gut.",
+      "variant": "schmeckt"
+      },
+      {
+      "gender": null,
+      "word": "lecker",
+      "meaning": "美味的",
+      "sentence": "Das Schnitzel mit Kartoffeln ist lecker.",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "später",
+      "meaning": "以后，后来",
+      "sentence": "Bis später!",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "probieren",
+      "meaning": "尝试",
+      "sentence": "Probier mal!",
+      "variant": "probiert"
+      },
+      {
+      "gender": null,
+      "word": "oft",
+      "meaning": "经常",
+      "sentence": "Ich komme oft hierher.",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "hierher/kommen",
+      "meaning": "到这儿来",
+      "sentence": "Ich komme oft hierher.",
+      "variant": "hierher/kommt"
+      },
+      {
+      "gender": "die",
+      "word": "Atmosphäre",
+      "meaning": "气氛",
+      "sentence": "Die Atmosphäre in dem Restaurant ist sehr gut.",
+      "variant": "Atmosphäre"
+      },
+      {
+      "gender": null,
+      "word": "gefallen",
+      "meaning": "使......喜欢",
+      "sentence": "Das Restaurant hier gefällt mir sehr.",
+      "variant": "gefällt"
+      },
+      {
+      "gender": null,
+      "word": "nämlich",
+      "meaning": "因为，即，也就是",
+      "sentence": "Er kommt heute nicht mehr, er ist nämlich krank.",
+      "variant": null
+      },
+      {
+      "gender": "der",
+      "word": "Nachtisch",
+      "meaning": "饭后甜点",
+      "sentence": "Als Nachtisch bestelle ich ein Eis.",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "ruhig",
+      "meaning": "安静的，清净的",
+      "sentence": "Bestell dir ruhig eins!",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "zahlen",
+      "meaning": "付款",
+      "sentence": "Zahlen, bitte!",
+      "variant": "zahlt"
+      },
+      {
+      "gender": null,
+      "word": "getrennt",
+      "meaning": "分开的",
+      "sentence": "Zahlen Sie getrennt oder zusammen?",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "machen",
+      "meaning": "总共；干，做",
+      "sentence": "Das macht zusammen 28,50 Euro.",
+      "variant": "macht"
+      },
+      {
+      "gender": "der",
+      "word": "Euro",
+      "meaning": "欧元",
+      "sentence": "Hier sind 30 Euro. Stimmt so.",
+      "variant": null
+      },
+      {
+      "gender": null,
+      "word": "danken",
+      "meaning": "感谢",
+      "sentence": "Ich danke dir für das Essen.",
+      "variant": "dankt"
+      },
+    {
+      "gender": "das",
+      "word": "Getränk",
+      "meaning": "饮料",
+      "sentence": "Haben wir noch Getränke zu Hause?",
+      "variant": "Getränke"
+    },
+    {
+      "gender": "das",
+      "word": "Hauptgericht",
+      "meaning": "主食",
+      "sentence": "Nach der Vorspeise kommt das Hauptgericht.",
+      "variant": "Hauptgerichte"
+    },
+    {
+      "gender": "die",
+      "word": "Sprite",
+      "meaning": "雪碧",
+      "sentence": "Wir haben Sprite, Fanta und Tee. Was möchtet ihr denn?",
+      "variant": "Sprite"
+    },
+    {
+      "gender": "die",
+      "word": "Fanta",
+      "meaning": "芬达",
+      "sentence": "Wir haben Sprite, Fanta und Tee. Was möchtet ihr denn?",
+      "variant": "Fanta"
+    },
+    {
+      "gender": "der",
+      "word": "Tee",
+      "meaning": "茶",
+      "sentence": "Wir haben Sprite, Fanta und Tee. Was möchtet ihr denn?",
+      "variant": "Tees"
+    },
+    {
+      "gender": "der",
+      "word": "Wein",
+      "meaning": "葡萄酒",
+      "sentence": "Einen Wein bitte!",
+      "variant": "Weine"
+    },
+    {
+      "gender": "der",
+      "word": "Pudding",
+      "meaning": "布丁",
+      "sentence": "Der Pudding hier schmeckt prima.",
+      "variant": "Puddinge"
+    },
+    {
+      "gender": null,
+      "word": "sofort",
+      "meaning": "立即,马上",
+      "sentence": "Kommt sofort.",
+      "variant": null
+    },
+    {
+      "gender": "der",
+      "word": "Cent",
+      "meaning": "分币",
+      "sentence": "Wie viel Cent sind ein Euro?",
+      "variant": "Cent"
+    },
+    {
+      "gender": "die",
+      "word": "Blume",
+      "meaning": "花朵",
+      "sentence": "Die Blumen hier sind sehr schön.",
+      "variant": "Blumen"
+    },
+    {
+      "gender": "die",
+      "word": "Kamera",
+      "meaning": "相机",
+      "sentence": "Die Kamera ist aus Japan.",
+      "variant": "Kameras"
+    },
+    {
+      "gender": null,
+      "word": "helfen",
+      "meaning": "帮助",
+      "sentence": "Wem hilft unser Lehrer?",
+      "variant": "hilft"
+    },
+    {
+      "gender": null,
+      "word": "gehören",
+      "meaning": "属于",
+      "sentence": "Wem gehört die Schultasche?",
+      "variant": "gehört"
+    },
+    {
+      "gender": "die",
+      "word": "Flasche",
+      "meaning": "瓶,罐",
+      "sentence": "Möchten Sie eine oder zwei Flaschen Wein?",
+      "variant": "Flaschen"
+    },
+    {
+      "gender": "der",
+      "word": "Spiegel",
+      "meaning": "镜子",
+      "sentence": "Du bist im Spiegel groß.",
+      "variant": "Spiegel"
+    },
+    {
+      "gender": "die",
+      "word": "Tasse",
+      "meaning": "有柄的 瓷杯子",
+      "sentence": "Ich möchte einen Kuchen und dazu eine Tasse Kaffee.",
+      "variant": "Tassen"
+    },
+    {
+      "gender": "der",
+      "word": "Kühlschrank",
+      "meaning": "冰箱",
+      "sentence": "Der Kühlschrank steht in der Küche.",
+      "variant": "Kühlschränke"
+    },
+    {
+      "gender": "der",
+      "word": "Kuchen",
+      "meaning": "糕点、糕饼",
+      "sentence": "Der Kuchen schmeckt mir sehr.",
+      "variant": "Kuchen"
+    },
+    {
+      "gender": "der",
+      "word": "Schlüssel",
+      "meaning": "钥匙,答案",
+      "sentence": "Ich finde meinen Schlüssel nicht mehr.",
+      "variant": "Schlüssel"
+    },
+    {
+      "gender": "der",
+      "word": "Stern",
+      "meaning": "星星,明星",
+      "sentence": "Die Sterne hangen am Himmel.",
+      "variant": "Sterne"
+    },
+    {
+      "gender": "der",
+      "word": "Himmel",
+      "meaning": "天空",
+      "sentence": "Der Himmel ist blau.",
+      "variant": "Himmel"
+    },
+    {
+      "gender": null, 
+      "word": "kalt",
+      "meaning": "冷的",
+      "sentence": "Das Essen ist kalt.",
+      "variant": null
+    },
+    {
+      "gender": null,
+      "word": "zu/machen",
+      "meaning": "关闭",
+      "sentence": "Mach bitte die Tür zu!",
+      "variant": "zu/macht"
+    },
+    {
+      "gender": "der",
+      "word": "Arzt",
+      "meaning": "医生,大夫",
+      "sentence": "Wohin gehst du denn? Zum Arzt.",
+      "variant": "Ärzte"
+    },
+    {
+      "gender": null,
+      "word": "vergessen",
+      "meaning": "忘记",
+      "sentence": "Bitte vergessen Sie das nicht.",
+      "variant": "vergisst"
+    },
+    {
+      "gender": "die",
+      "word": "Orange",
+      "meaning": "橙子",
+      "sentence": "Ich möchte zwei Kilo Orangen.",
+      "variant": "Orangen"
+    },
+  {
+    "gender": "der",
+    "word": "Cappuccino",
+    "meaning": "卡布奇诺",
+    "sentence": "Ich hätte gern einen Cappuccino.",
+    "variant": "Cappuccinos"
+  },
+  {
+    "gender": "die",
+    "word": "Zitrone",
+    "meaning": "柠檬",
+    "sentence": "Ich hätte gern einen Tee mit Zitrone.",
+    "variant": "Zitronen"
+  },
+  {
+    "gender": null,
+    "word": "empfehlen",
+    "meaning": "推荐",
+    "sentence": "Was empfehlen Sie uns?",
+    "variant": "empfiehlt"
+  },
+  {
+    "gender": null,
+    "word": "kosten",
+    "meaning": "花费，值",
+    "sentence": "Wie viel kostet das?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "vielfältig",
+    "meaning": "多样的",
+    "sentence": "Das Essen in China ist vielfältig.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "verschieden",
+    "meaning": "不一样的，另一种的，不同的",
+    "sentence": "Es gibt verschiedene regionale Küchen mit unterschiedlichen Spezialitäten.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "regional",
+    "meaning": "区域性的，地方性的",
+    "sentence": "Es gibt verschiedene regionale Küchen mit unterschiedlichen Spezialitäten.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Küche",
+    "meaning": "菜肴，饭菜；烹调法；厨房",
+    "sentence": "Die Küche ist groß und modern.",
+    "variant": "Küchen"
+  },
+  {
+    "gender": null,
+    "word": "unterschiedlich",
+    "meaning": "不同的",
+    "sentence": "Die Spezialitäten sind unterschiedlich.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Spezialität",
+    "meaning": "特色菜",
+    "sentence": "Die Spezialitäten sind unterschiedlich.",
+    "variant": "Spezialitäten"
+  },
+  {
+    "gender": "der",
+    "word": "Norden",
+    "meaning": "北方",
+    "sentence": "Im Norden isst man oft Gerichte mit frischem Fisch.",
+    "variant": "Norden"
+  },
+  {
+    "gender": null,
+    "word": "frisch",
+    "meaning": "新鲜的",
+    "sentence": "Ist der Fisch frisch?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "Bayern",
+    "meaning": "巴伐利亚州",
+    "sentence": "In München und Bayern ist die Weißwurst sehr beliebt, während man in Schwaben Käsespätzle und Maultaschen gerne isst.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "weiß",
+    "meaning": "白色的",
+    "sentence": "In München und Bayern ist die Weißwurst sehr beliebt, während man in Schwaben Käsespätzle und Maultaschen gerne isst.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "beliebt",
+    "meaning": "受欢迎的",
+    "sentence": "In München und Bayern ist die Weißwurst sehr beliebt, während man in Schwaben Käsespätzle und Maultaschen gerne isst.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "während",
+    "meaning": "然而",
+    "sentence": "In München und Bayern ist die Weißwurst sehr beliebt, während man in Schwaben Käsespätzle und Maultaschen gerne isst.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Käsespätzle",
+    "meaning": "奶酪面条",
+    "sentence": "In München und Bayern ist die Weißwurst sehr beliebt, während man in Schwaben Käsespätzle und Maultaschen gerne isst.",
+    "variant": "Käsespätzle"
+  },
+  {
+    "gender": "die",
+    "word": "Maultasche",
+    "meaning": "馅皮饺子",
+    "sentence": "In München und Bayern ist die Weißwurst sehr beliebt, während man in Schwaben Käsespätzle und Maultaschen gerne isst.",
+    "variant": "Maultaschen"
+  },
+  {
+    "gender": "die",
+    "word": "Rostbratwurst",
+    "meaning": "烤香肠",
+    "sentence": "Thüringen ist für seine Rostbratwurst bekannt.",
+    "variant": "Rostbratwürste"
+  },
+  {
+    "gender": null,
+    "word": "bekannt",
+    "meaning": "知名的（结尾nnt）",
+    "sentence": "Thüringen ist für seine Rostbratwurst bekannt.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "berühmt",
+    "meaning": "著名的（结尾hmt）",
+    "sentence": "Der Arzt ist berühmt.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Sorte",
+    "meaning": "种类，品种",
+    "sentence": "Hier bekommt man viele Sorten von Brot.",
+    "variant": "Sorten"
+  },
+  {
+    "gender": null,
+    "word": "fast",
+    "meaning": "几乎", 
+    "sentence": "Ich arbeite hier fast drei Jahre.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "international",
+    "meaning": "国际的",
+    "sentence": "In Deutschland gibt es viele internationale Küchen.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "italienisch",
+    "meaning": "意大利的",
+    "sentence": "Die Pizza ist italienisch.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "griechisch",
+    "meaning": "希腊的",
+    "sentence": "Wie klingt die griechische Musik?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "spanisch",
+    "meaning": "西班牙的",
+    "sentence": "Das spanische Essen ist sehr lecker.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Schnellimbiss",
+    "meaning": "小吃店",
+    "sentence": "Entschuldigung, gibt es hier einen Schnellimbiss?",
+    "variant": "Schnellimbisse"
+  },
+  {
+    "gender": "die",
+    "word": "Snackbar",
+    "meaning": "快餐店",
+    "sentence": "In der Snackbar gibt es Pommes Frites.",
+    "variant": "Snackbars"
+  },
+  {
+    "gender": "der",
+    "word": "Ketchup",
+    "meaning": "番茄酱",
+    "sentence": "Viele essen gern Pommes Frites mit Ketchup.",
+    "variant": "Ketchups"
+  },
+  {
+    "gender": "die",
+    "word": "Pizza",
+    "meaning": "比萨",
+    "sentence": "Ist die Pizza eigentlich chinesisch oder italienisch?",
+    "variant": "Pizzas"
+  },
+  {
+    "gender": "das",
+    "word": "Frühstück",
+    "meaning": "早餐",
+    "sentence": "Was möchtest du zum Frühstück?",
+    "variant": "Frühstücke"
+  },
+  {
+    "gender": "das",
+    "word": "Müsli",
+    "meaning": "混合麦片",
+    "sentence": "Manche essen zum Frühstück Müsli oder Brot.",
+    "variant": "Müsli"
+  },
+  {
+    "gender": "die",
+    "word": "Marmelade",
+    "meaning": "果酱",
+    "sentence": "Es gibt unterschiedliche Marmeladen.",
+    "variant": "Marmeladen"
+  },
+  {
+    "gender": "der",
+    "word": "Honig",
+    "meaning": "蜂蜜",
+    "sentence": "Man isst Brot mit Marmelade oder Honig.",
+    "variant": "Honige"
+  },
+  {
+    "gender": "die",
+    "word": "Kantine",
+    "meaning": "职工食堂",
+    "sentence": "Zu Mittag essen viele in der Kantine.",
+    "variant": "Kantinen"
+  },
+  {
+    "gender": "die",
+    "word": "Cafeteria",
+    "meaning": "自助餐厅",
+    "sentence": "In der Cafeteria gibt es viele Snacks.",
+    "variant": "Cafeterias"
+  },
+  {
+    "gender": null,
+    "word": "recht",
+    "meaning": "相当，等于",
+    "sentence": "Aber das Essen dort is recht teuer.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "teuer",
+    "meaning": "昂贵的",
+    "sentence": "Aber das Essen dort is recht teuer.",
+    "variant": null
+  }
+]

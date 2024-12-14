@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deutsch Vokabeltrainer</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+                    
+        <!-- 进度条 -->
+        <div class="progress-container">
+            <div id="progress-bar"></div>
+            <span id="progress-text">0/0</span> <!-- 显示 current/total -->
+        </div>        
+            
+        <!-- 标题区 -->
+        <header>
+            <h1>Deutsch Vokabeltrainer</h1>
+            <p>Verbessern Sie Ihre Wortschatzkenntnisse!</p>
+        </header>
+
+        <!-- 内容区 -->
+        <main>
+            <div class="card">
+                <p id="meaning">Artikel: ...</p>
+                <p id="hint" class="hint">ä → ae, ö → oe, ü → ue, ß → ss</p>
+                <input type="text" id="userInput" placeholder="Artikel und Wort eingeben">
+                <p id="feedback"></p>
+                <p id="sentence" class="sentence"></p>
+            </div>
+        </main>
+
+        <!-- 按钮区 -->
+        <footer>
+            <button id="prevBtn">&larr;</button>
+            <button id="checkBtn">Prüfen</button>
+            <button id="nextBtn">&rarr;</button>
+            <div id="control-panel">
+                <div id="randomToggle">
+                    <label for="randomSwitch">Random:</label>
+                    <button id="randomSwitch">Off</button>
+                </div>
+                <div id="file-selector">
+                    <label for="jsonFileSelect">Einheit:</label>
+                    <select id="jsonFileSelect">
+                        <option value="" disabled selected>Einheit 5</option>
+                    </select>
+                </div>
+            </div>
+        </footer>            
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

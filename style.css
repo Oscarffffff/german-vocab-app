@@ -1,0 +1,188 @@
+/* 全局样式 */
+body {
+    font-family: 'Inter', Arial sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* 容器样式 */
+.container {
+    width: 90%;
+    max-width: 500px;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px 15px;
+}
+
+/* 进度条容器 */
+.progress-container {
+    width: 100%;
+    display: flex; /* 使用 flexbox 布局 */
+    align-items: center;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 20px; /* 增加高度以容纳文字 */
+    position: relative;
+}
+
+/* 进度条本体 */
+#progress-bar {
+    height: 100%;
+    background-color: #007BFF;
+    transition: width 0.3s ease;
+    border-radius: 5px 0 0 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+/* 进度文本 */
+#progress-text {
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 0.9em;
+    color: #333;
+    z-index: 2; /* 确保文字显示在进度条上方 */
+    margin-left: auto; /* 文字靠右对齐 */
+    margin-right: 10px;
+}
+
+/* 标题区样式 */
+header h1 {
+    font-size: 2em;
+    color: #333;
+    margin: 10px 0;
+}
+
+header p {
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* 内容区样式 */
+.card {
+    margin: 20px 0;
+}
+
+.card p {
+    font-size: 1.2em;
+    color: #333;
+}
+
+#meaning {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 10px 15px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+input[type="text"]:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+/* 消息提示样式 */
+.container .hint{
+    font-size: 0.8em; /* 确保字体可见 */
+    color: #aaa;      /* 灰色字体 */
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* 按钮区样式 */
+footer button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 25px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease;
+}
+
+footer button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+footer button:active {
+    background-color: #003f87;
+    transform: scale(1);
+}
+
+/* 句子中高亮单词的样式 */
+.highlight {
+    background-color: #ffeb3b;
+    color: #333;
+    font-weight: bold;
+    padding: 0 3px;
+    border-radius: 3px;
+}
+
+/* 控制面板样式 */
+#control-panel {
+    display: flex;
+    align-items: center; /* 垂直居中 */
+    justify-content: center; /* 水平居中 */
+    gap: 20px; /* 按钮和下拉菜单之间的间距 */
+    margin-top: 15px; /* 与上方的间距 */
+}
+
+#randomToggle {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* 标签和按钮之间的间距 */
+}
+
+/* 按钮样式 */
+#randomSwitch {
+    padding: 5px 15px;
+    font-size: 0.9em;
+    border: 1px solid #ddd;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#randomSwitch.active {
+    background-color: #007BFF;
+    color: white;
+    border-color: #0056b3;
+}
+
+/* 下拉菜单样式 */
+#file-selector {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* 标签和下拉菜单之间的间距 */
+}
+
+#jsonFileSelect {
+    padding: 5px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 120px; /* 缩短下拉菜单宽度 */
+    cursor: pointer;
+}
