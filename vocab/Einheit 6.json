@@ -1,9 +1,660 @@
 [
-    {
-      "gender": "der",
-      "word": "Käse",
-      "meaning": "待完成",
-      "sentence": "Käse ist aus Milch.",
-      "variant": "Käse"
-    }
+  {
+    "gender": "das",
+    "word": "Wohnhaus",
+    "meaning": "住宅",
+    "sentence": "Hier sieht man ein Wohnhaus, ein Einfamilienhaus, ein Doppelhaus und eine WG.",
+    "variant": "Wohnhäuser"
+  },
+  {
+    "gender": "das",
+    "word": "Einfamilienhaus",
+    "meaning": "独宅，单户住宅",
+    "sentence": "Hier sieht man ein Wohnhaus, ein Einfamilienhaus, ein Doppelhaus und eine WG.",
+    "variant": "Einfamilienhäuser"
+  },
+  {
+    "gender": "das",
+    "word": "Reihenhaus",
+    "meaning": "连排房屋",
+    "sentence": "Hier sieht man ein Wohnhaus, ein Einfamilienhaus, ein Doppelhaus und eine WG.",
+    "variant": "Reihenhäuser"
+  },
+  {
+    "gender": "die",
+    "word": "Wohngemeinschaft",
+    "meaning": "集体住房，合住套房",
+    "sentence": "Hier sieht man ein Wohnhaus, ein Einfamilienhaus, ein Doppelhaus und eine WG.",
+    "variant": "Wohngemeinschaften"
+  },
+  {
+    "gender": "das",
+    "word": "Zimmer",
+    "meaning": "房间",
+    "sentence": "Die Zimmer sind Wohnzimmer, Schlafzimmer usw.",
+    "variant": "Zimmer"
+  },
+  {
+    "gender": "das",
+    "word": "Wohnzimmer",
+    "meaning": "起居室，客厅",
+    "sentence": "Die Zimmer sind Wohnzimmer, Schlafzimmer usw.",
+    "variant": "Wohnzimmer"
+  },
+  {
+    "gender": "das",
+    "word": "Schlafzimmer",
+    "meaning": "卧室，寝室",
+    "sentence": "Die Zimmer sind Wohnzimmer, Schlafzimmer usw.",
+    "variant": "Schlafzimmer"
+  },
+  {
+    "gender": "das",
+    "word": "Bad",
+    "meaning": "浴室",
+    "sentence": "Das Bad ist klein.",
+    "variant": "Bäder"
+  },
+  {
+    "gender": "der",
+    "word": "Balkon",
+    "meaning": "阳台",
+    "sentence": "Der Balkon geht nach Süden.",
+    "variant": "Balkone"
+  },
+  {
+    "gender": "der",
+    "word": "Flur",
+    "meaning": "走廊，过道",
+    "sentence": "Die Katze sitzt im Flur.",
+    "variant": "Flure"
+  },
+  {
+    "gender": "die",
+    "word": "Suche",
+    "meaning": "寻找（名词）",
+    "sentence": "Der Informatiker sucht eine Wohnung.",
+    "variant": "Suchen"
+  },
+  {
+    "gender": "der",
+    "word": "Informatiker",
+    "meaning": "电脑工程师",
+    "sentence": "Der Informatiker sucht eine Wohnung.",
+    "variant": "Informatiker"
+  },
+  {
+    "gender": "die",
+    "word": "Firma",
+    "meaning": "公司",
+    "sentence": "Ich arbeite bei Firma Borsch.",
+    "variant": "Firmen"
+  },
+  {
+    "gender": null,
+    "word": "seit",
+    "meaning": "自…以来",
+    "sentence": "Seit Wochen sucht er eine Wohnung.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Anzeige",
+    "meaning": "广告，告示",
+    "sentence": "Lesen Sie die Anzeigen?",
+    "variant": "Anzeigen"
+  },
+  {
+    "gender": "der",
+    "word": "Vermieter",
+    "meaning": "出租者（男）",
+    "sentence": "Er ist Vermieter.",
+    "variant": "Vermieter"
+  },
+  {
+    "gender": null,
+    "word": "dringend",
+    "meaning": "迫切的",
+    "sentence": "Er möchte dringend eine Wohnung mieten.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "mieten",
+    "meaning": "租用，租借，租赁",
+    "sentence": "Er möchte eine Wohnung mieten.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "besichtigen",
+    "meaning": "参观",
+    "sentence": "Er besichtigt eine Mietwohnung.",
+    "variant": "besichtigt"
+  },
+  {
+    "gender": null,
+    "word": "weg",
+    "meaning": "不在，离开",
+    "sentence": "Der Bus ist weg.",
+    "variant": null
+  },
+  {
+    "gender": "das",
+    "word": "Problem",
+    "meaning": "问题，困难",
+    "sentence": "Kein Problem!",
+    "variant": "Probleme"
+  },
+  {
+    "gender": null,
+    "word": "zeigen",
+    "meaning": "给……看",
+    "sentence": "Sie zeigt ihm die Wohnung.",
+    "variant": "zeigt"
+  },
+  {
+    "gender": null,
+    "word": "aus/ziehen",
+    "meaning": "脱衣鞋，搬出",
+    "sentence": "Der Sohn zieht aus dem Elternhaus aus.",
+    "variant": "zieht aus"
+  },
+  {
+    "gender": null,
+    "word": "nötig",
+    "meaning": "必要的",
+    "sentence": "Er findet die Arbeit zwar nötig, macht sie aber nicht gleich.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "renoviert",
+    "meaning": "修缮过的，装修过的",
+    "sentence": "Das Wohnzimmer ist renoviert und sieht modern und hell aus.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "ziemlich",
+    "meaning": "颇，比教",
+    "sentence": "Er trinkt ziemlich viel.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "zwar",
+    "meaning": "虽然",
+    "sentence": "Das Essen ist zwar kalt, schmeckt aber gut.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "modern",
+    "meaning": "时髦的",
+    "sentence": "Die Möbel sehen modern aus.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "hell",
+    "meaning": "明亮的",
+    "sentence": "Die Wohnung ist ganz hell.",
+    "variant": null
+  },
+  {
+    "gender": "das",
+    "word": "Fenster",
+    "meaning": "窗户，窗子",
+    "sentence": "Die Fenster gehen alle nach Süden.",
+    "variant": "Fenster"
+  },
+  {
+    "gender": "der",
+    "word": "Süden",
+    "meaning": "南部，南方，南面",
+    "sentence": "Die Fenster gehen alle nach Süden.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Internetschluss",
+    "meaning": "网络接口",
+    "sentence": "In der Mietwohnung gibt es schon Internetanschlüsse.",
+    "variant": "Internetschlüsse"
+  },
+  {
+    "gender": null,
+    "word": "hinter",
+    "meaning": "在……后面去",
+    "sentence": "Das Kind steht hinter seiner Mutter.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Parkplatz",
+    "meaning": "停车场",
+    "sentence": "Hinter dem Haus liegt ein Parkplatz.",
+    "variant": "Parkplätze"
+  },
+  {
+    "gender": null,
+    "word": "hoch",
+    "meaning": "高的",
+    "sentence": "Wie hoch ist die Miete?",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Miete",
+    "meaning": "租金",
+    "sentence": "Wie hoch ist die Miete?",
+    "variant": "Mieten"
+  },
+  {
+    "gender": "der",
+    "word": "Monat",
+    "meaning": "月，月份",
+    "sentence": "Ein Jahr hat zwölf Monate.",
+    "variant": "Monate"
+  },
+  {
+    "gender": null,
+    "word": "warm",
+    "meaning": "温暖的，热的",
+    "sentence": "Heute ist es warm.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "nehmen",
+    "meaning": "接受，选购，乘，坐",
+    "sentence": "Ich nehme die Wohnung.",
+    "variant": "nimmt"
+  },
+  {
+    "gender": "der",
+    "word": "Nachbar",
+    "meaning": "邻居（男）",
+    "sentence": "Meine Nachbarn sind alle nett.",
+    "variant": "Nachbarn"
+  },
+  {
+    "gender": null,
+    "word": "ein/halten",
+    "meaning": "遵守（可分动词）",
+    "sentence": "Alle Studenten müssen die Hausordnung einhalten.",
+    "variant": "hält ein"
+  },
+  {
+    "gender": "das",
+    "word": "Haustier",
+    "meaning": "宠物",
+    "sentence": "In einer Mietwohnung darf man kein Haustier halten.",
+    "variant": "Haustiere"
+  },
+  {
+    "gender": null,
+    "word": "halten",
+    "meaning": "养着，饲养，拿着，停着",
+    "sentence": "Das Auto hält vor dem Haus.",
+    "variant": "hält"
+  },
+  {
+    "gender": "der",
+    "word": "Umzug",
+    "meaning": "搬家（名词）",
+    "sentence": "Umzug kostet Geld.",
+    "variant": "Umzüge"
+  },
+  {
+    "gender": null,
+    "word": "um/ziehen",
+    "meaning": "搬家（可分动词）",
+    "sentence": "Heute zieht er um.",
+    "variant": "zieht um"
+  },
+  {
+    "gender": null,
+    "word": "betrachten",
+    "meaning": "细看，打量",
+    "sentence": "Er betrachtet das Zimmer genau.",
+    "variant": "betrachtet"
+  },
+  {
+    "gender": "der",
+    "word": "Drehstuhl",
+    "meaning": "转椅",
+    "sentence": "Der Drehstuhl steht am Schreibtisch.",
+    "variant": "Drehstühle"
+  },
+  {
+    "gender": null,
+    "word": "über",
+    "meaning": "在/到……上方",
+    "sentence": "Über dem Tisch hängt eine Lampe.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "hängen",
+    "meaning": "挂着，悬着",
+    "sentence": "Die Wanduhr hängt gegenüber dem Bild.",
+    "variant": "hängt"
+  },
+  {
+    "gender": null,
+    "word": "gegenüber",
+    "meaning": "面对，对面",
+    "sentence": "Die Wanduhr hängt gegenüber dem Bild.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "stehen",
+    "meaning": "站立着，竖放着",
+    "sentence": "Das Fahrrad steht vor dem Studentenwohnheim.",
+    "variant": "steht"
+  },
+  {
+    "gender": "der",
+    "word": "Nachttisch",
+    "meaning": "床头柜",
+    "sentence": "Auf dem Nachttisch steht eine Lampe.",
+    "variant": "Nachttische"
+  },
+  {
+    "gender": "die",
+    "word": "Lampe",
+    "meaning": "灯",
+    "sentence": "Auf dem Nachttisch steht eine Lampe.",
+    "variant": "Lampen"
+  },
+  {
+    "gender": "die",
+    "word": "Wand",
+    "meaning": "墙壁，墙面",
+    "sentence": "An der Wand hängt ein Bild.",
+    "variant": "Wände"
+  },
+  {
+    "gender": "die",
+    "word": "Ecke",
+    "meaning": "角落，隅",
+    "sentence": "Die Katze läuft in die Ecke.",
+    "variant": "Ecken"
+  },
+  {
+    "gender": "das",
+    "word": "Regal",
+    "meaning": "架子，书架",
+    "sentence": "Im Regal stehen viele Bücher.",
+    "variant": "Regale"
+  },
+  {
+    "gender": "die",
+    "word": "Sache",
+    "meaning": "物品，东西",
+    "sentence": "Er bringt seine Sachen in Ordnung.",
+    "variant": "Sachen"
+  },
+  {
+    "gender": "die",
+    "word": "Ordnung",
+    "meaning": "规则，秩序",
+    "sentence": "In Ordnung!",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Laptop",
+    "meaning": "手提电脑",
+    "sentence": "Viele Studenten haben Laptops.",
+    "variant": "Laptops"
+  },
+  {
+    "gender": null,
+    "word": "stecken",
+    "meaning": "插入，插着",
+    "sentence": "Die Blumen stecken in der Vase.",
+    "variant": "steckt"
+  },
+  {
+    "gender": "der",
+    "word": "Stecker",
+    "meaning": "插头",
+    "sentence": "Er steckt den Stecker in die Steckdose.",
+    "variant": "Stecker"
+  },
+  {
+    "gender": "die",
+    "word": "Steckdose",
+    "meaning": "插座",
+    "sentence": "Er steckt den Stecker in die Steckdose.",
+    "variant": "Steckdosen"
+  },
+  {
+    "gender": "der",
+    "word": "Koffer",
+    "meaning": "箱子",
+    "sentence": "Er macht seinen Koffer auf und hängt seine Kleidung in den Schrank.",
+    "variant": "Koffer"
+  },
+  {
+    "gender": "die",
+    "word": "Kleidung",
+    "meaning": "衣服（总称）",
+    "sentence": "Er legt die Kleidung in den Schrank.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Schrank",
+    "meaning": "柜子，橱",
+    "sentence": "Der Schrank ist zwar alt, aber gut.",
+    "variant": "Schränke"
+  },
+  {
+    "gender": null,
+    "word": "stellen",
+    "meaning": "竖立，直立",
+    "sentence": "Er stellt den Laptop auf den Tisch.",
+    "variant": "stellt"
+  },
+  {
+    "gender": "der",
+    "word": "Wecker",
+    "meaning": "闹钟",
+    "sentence": "Dann stellt er den Wecker auf den Tisch.",
+    "variant": "Wecker"
+  },
+  {
+    "gender": null,
+    "word": "legen",
+    "meaning": "平放，摆，躺，卧",
+    "sentence": "Er legt die Zeitung auf den Tisch.",
+    "variant": "legt"
+  },
+  {
+    "gender": null,
+    "word": "surfen",
+    "meaning": "冲浪运动，网络漫游",
+    "sentence": "Er surft gern im Internet.",
+    "variant": "surft"
+  },
+  {
+    "gender": null,
+    "word": "sitzen",
+    "meaning": "坐，坐着",
+    "sentence": "Du sitzt immer vor dem Fernseher.",
+    "variant": "sitzt"
+  },
+  {
+    "gender": "der",
+    "word": "Lärm",
+    "meaning": "噪音，喧哗声",
+    "sentence": "Hier darf man keinen Lärm machen.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "tippen",
+    "meaning": "打字",
+    "sentence": "Sie tippt stundenlang.",
+    "variant": "tippt"
+  },
+  {
+    "gender": "die",
+    "word": "Rechnung",
+    "meaning": "账单",
+    "sentence": "Er liest die Rechnung.",
+    "variant": "Rechnungen"
+  },
+  {
+    "gender": "der",
+    "word": "Termin",
+    "meaning": "约期，期限",
+    "sentence": "Der Kaufmann hat viele Termine.",
+    "variant": "Termine"
+  },
+  {
+    "gender": null,
+    "word": "warten",
+    "meaning": "等，等待",
+    "sentence": "Er soll noch ein Jahr warten.",
+    "variant": "wartet"
+  },
+  {
+    "gender": null,
+    "word": "fertig",
+    "meaning": "完成了的，结束了的",
+    "sentence": "Er soll die Hausaufgaben fertig machen.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "liegen",
+    "meaning": "平放，躺，卧",
+    "sentence": "Er ist krank und liegt im Bett.",
+    "variant": "liegt"
+  },
+  {
+    "gender": null,
+    "word": "unter",
+    "meaning": "在/到……下面/方",
+    "sentence": "Er stellt die Schuhe unter das Bett.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Schuh",
+    "meaning": "鞋，鞋子",
+    "sentence": "Er stellt die Schuhe unter das Bett.",
+    "variant": "Schuhe"
+  },
+  {
+    "gender": null,
+    "word": "möglich",
+    "meaning": "可能的",
+    "sentence": "Ist das möglich?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "da",
+    "meaning": "（在）那儿",
+    "sentence": "Kann man da parken?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "parken",
+    "meaning": "停放",
+    "sentence": "Kann man da parken?",
+    "variant": "parkt"
+  },
+  {
+    "gender": "der",
+    "word": "Doktor",
+    "meaning": "大夫，博士",
+    "sentence": "Herr Doktor, muss ich noch im Bett liegen?",
+    "variant": "Doktoren"
+  },
+  {
+    "gender": null,
+    "word": "schwach",
+    "meaning": "弱，虚弱",
+    "sentence": "Ich bin noch schwach.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Bus",
+    "meaning": "公共汽车",
+    "sentence": "Wann kommt denn der Bus?",
+    "variant": "Busse"
+  },
+  {
+    "gender": "die",
+    "word": "Station",
+    "meaning": "车站",
+    "sentence": "Wie viele Stationen fahre ich noch?",
+    "variant": "Stationen"
+  },
+  {
+    "gender": null,
+    "word": "praktisch",
+    "meaning": "实用，事实上",
+    "sentence": "Das ist sehr praktisch.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Heizung",
+    "meaning": "暖气",
+    "sentence": "Die Heizung funktioniert nicht.",
+    "variant": "Heizungen"
+  },
+  {
+    "gender": "das",
+    "word": "Möbel",
+    "meaning": "家具",
+    "sentence": "Die Möbel sind teuer.",
+    "variant": "Möbel"
+  },
+  {
+    "gender": "die",
+    "word": "Lage",
+    "meaning": "位置，环境",
+    "sentence": "Wie ist die Lage?",
+    "variant": "Lagen"
+  },
+  {
+    "gender": null,
+    "word": "links",
+    "meaning": "左边，左面",
+    "sentence": "Das Auto fährt mal links, mal rechts.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "rechts",
+    "meaning": "右边，右面",
+    "sentence": "Das Auto fährt mal links, mal rechts.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "vorne",
+    "meaning": "前面",
+    "sentence": "Vorne ist eine Straße.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Park",
+    "meaning": "公园",
+    "sentence": "Der Park ist sehr groß.",
+    "variant": "Parks"
+  }
 ]

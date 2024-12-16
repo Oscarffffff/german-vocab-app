@@ -1,0 +1,408 @@
+[
+  {
+    "gender": "der",
+    "word": "Stock",
+    "meaning": "楼层（der）",
+    "sentence": "Das Wohnhaus hat acht Stockwerke.",
+    "variant": "Stockwerke"
+  },
+  {
+    "gender": "das",
+    "word": "Kaufhaus",
+    "meaning": "百货大楼，百货商店",
+    "sentence": "Karstadt ist ein Kaufhaus in Deutschland.",
+    "variant": "Kaufhäuser"
+  },
+  {
+    "gender": null,
+    "word": "kaufen",
+    "meaning": "购买",
+    "sentence": "Die Studenten kaufen gern Bücher.",
+    "variant": "kauft"
+  },
+  {
+    "gender": "die",
+    "word": "Sportbekleidung",
+    "meaning": "运动服",
+    "sentence": "Die Studenten tragen lieber Sportbekleidung.",
+    "variant": "Sportbekleidungen"
+  },
+  {
+    "gender": "das",
+    "word": "Gerät",
+    "meaning": "器具，器械，器具",
+    "sentence": "Gute Sportgeräte sind teuer.",
+    "variant": "Geräte"
+  },
+  {
+    "gender": "die",
+    "word": "Dame",
+    "meaning": "女士",
+    "sentence": "Meine Damen und Herren!",
+    "variant": "Damen"
+  },
+  {
+    "gender": "die",
+    "word": "Toilette",
+    "meaning": "厕所，洗手间",
+    "sentence": "Im Kaufhaus gibt es auf jedem Stockwerk Toiletten.",
+    "variant": "Toiletten"
+  },
+  {
+    "gender": "die",
+    "word": "Schreibware",
+    "meaning": "文具，办公用品",
+    "sentence": "Die Mutter kauft Schreibwaren für ihre Kinder.",
+    "variant": "Schreibwaren"
+  },
+  {
+    "gender": "die",
+    "word": "Zeitschrift",
+    "meaning": "杂志，期刊",
+    "sentence": "Wie heißt die Zeitschrift?",
+    "variant": "Zeitschriften"
+  },
+  {
+    "gender": "der",
+    "word": "Haushalt",
+    "meaning": "家政，家务",
+    "sentence": "Meine Mutter macht bei mir zu Hause den Haushalt.",
+    "variant": "Haushalte"
+  },
+  {
+    "gender": null,
+    "word": "grüßen",
+    "meaning": "问候，打招呼",
+    "sentence": "Grüß dich, Lea.",
+    "variant": "grüßt"
+  },
+  {
+    "gender": "das",
+    "word": "Geschenk",
+    "meaning": "礼物",
+    "sentence": "Ich suche ein Geschenk für meine Freundin.",
+    "variant": "Geschenke"
+  },
+  {
+    "gender": null,
+    "word": "wollen",
+    "meaning": "愿意，打算，想要",
+    "sentence": "Was willst du ihr denn schenken?",
+    "variant": "will"
+  },
+  {
+    "gender": null,
+    "word": "schenken",
+    "meaning": "赠送",
+    "sentence": "Was willst du ihr denn schenken?",
+    "variant": "schenkt"
+  },
+  {
+    "gender": null,
+    "word": "können",
+    "meaning": "能够，会，可能",
+    "sentence": "Was kann ich ihr bloß schenken?",
+    "variant": "kann"
+  },
+  {
+    "gender": null,
+    "word": "bloß",
+    "meaning": "（语气词）千万，究竟，到底",
+    "sentence": "Was kann ich ihr bloß schenken?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "wissen",
+    "meaning": "知道，了解",
+    "sentence": "Das weiß ich nicht.",
+    "variant": "weiß"
+  },
+  {
+    "gender": "die",
+    "word": "Mütze",
+    "meaning": "（无帽檐的）帽子，便帽",
+    "sentence": "Wie wär's mit einer Mütze?",
+    "variant": "Mützen"
+  },
+  {
+    "gender": "das",
+    "word": "Mädchen",
+    "meaning": "少女，姑娘",
+    "sentence": "Frau Mayer hat zwei Kinder, ein Mädchen und einen Jungen.",
+    "variant": "Mädchen"
+  },
+  {
+    "gender": null,
+    "word": "tragen",
+    "meaning": "穿，戴",
+    "sentence": "Er trägt eine Brille.",
+    "variant": "trägt"
+  },
+  {
+    "gender": null,
+    "word": "alle",
+    "meaning": "所有的（人）",
+    "sentence": "Sind alle da?",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Etage",
+    "meaning": "楼层（die）",
+    "sentence": "In der ersten Etage findet man Mützen.",
+    "variant": "Etagen"
+  },
+  {
+    "gender": null,
+    "word": "hin/gehen",
+    "meaning": "去（某处或某人处）",
+    "sentence": "Wo gehen Sie hin?",
+    "variant": "geht hin"
+  },
+  {
+    "gender": null,
+    "word": "gucken",
+    "meaning": "瞧，张望",
+    "sentence": "Guck mal, hier sind Mützen.",
+    "variant": "guckt"
+  },
+  {
+    "gender": null,
+    "word": "welcher",
+    "meaning": "（疑问代词）哪个，哪些",
+    "sentence": "Hier sind Kugelschreiber. Welchen möchten Sie?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "rot",
+    "meaning": "红色",
+    "sentence": "Die rote Blume möchte ich meiner Mutter schenken.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Farbe",
+    "meaning": "颜色",
+    "sentence": "Die Farbe steht mir nicht besonders.",
+    "variant": "Farben"
+  },
+  {
+    "gender": null,
+    "word": "stehen",
+    "meaning": "适合于",
+    "sentence": "Die Farbe steht mir nicht besonders.",
+    "variant": "steht"
+  },
+  {
+    "gender": null,
+    "word": "halten",
+    "meaning": "认为",
+    "sentence": "Was hältst du von dem Handy hier?",
+    "variant": "hält"
+  },
+  {
+    "gender": null,
+    "word": "meinen",
+    "meaning": "认为，觉得，指",
+    "sentence": "Meinst du die blaue?",
+    "variant": "meint"
+  },
+  {
+    "gender": null,
+    "word": "blau",
+    "meaning": "蓝色的",
+    "sentence": "Gefällt dir das blaue Fahrrad?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "schwarz",
+    "meaning": "黑色的",
+    "sentence": "Mit der schwarzen Mütze sieht deine Freundin bestimmt gut aus.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "nach/sehen",
+    "meaning": "查看，审阅",
+    "sentence": "Sehen Sie mal nach, wie viel sie kostet!",
+    "variant": "sieht nach"
+  },
+  {
+    "gender": null,
+    "word": "billig",
+    "meaning": "便宜的，廉价的",
+    "sentence": "Gibt es keine billigeren?",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Kasse",
+    "meaning": "付款处",
+    "sentence": "Wo ist die Kasse?",
+    "variant": "Kassen"
+  },
+  {
+    "gender": "der",
+    "word": "September",
+    "meaning": "九月",
+    "sentence": "Im September habe ich Geburtstag.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Glückwunsch",
+    "meaning": "庆贺，祝贺",
+    "sentence": "Herzlichen Glückwunsch zum Geburtstag!",
+    "variant": "Glückwünsche"
+  },
+  {
+    "gender": null,
+    "word": "wünschen",
+    "meaning": "希望，祝愿，想要",
+    "sentence": "Ich wünsche dir/Ihnen viel Glück!",
+    "variant": "wünscht"
+  },
+  {
+    "gender": "der",
+    "word": "Pullover",
+    "meaning": "套头毛衣，套衫",
+    "sentence": "Lea sucht einen Pullover.",
+    "variant": "Pullover"
+  },
+  {
+    "gender": null,
+    "word": "kaputt",
+    "meaning": "坏的，破碎的",
+    "sentence": "Mein Handy ist kaputt.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Leute",
+    "meaning": "人们",
+    "sentence": "Kleider machen Leute.",
+    "variant": null
+  },
+  {
+    "gender": "der",
+    "word": "Spaziergang",
+    "meaning": "散步",
+    "sentence": "Nach dem Essen soll man einen Spaziergang machen.",
+    "variant": "Spaziergänge"
+  },
+  {
+    "gender": "der",
+    "word": "Fahrstuhl",
+    "meaning": "电梯",
+    "sentence": "Im Mädchenwohnheim gibt es zwei Fahrstühle.",
+    "variant": "Fahrstühle"
+  },
+  {
+    "gender": null,
+    "word": "ander",
+    "meaning": "其他的（人或物），别的，另外的",
+    "sentence": "Wo sind die anderen?",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "praktisch",
+    "meaning": "实际的，其他的实惠的，实用的",
+    "sentence": "Das Messer aus der Schweiz ist teuer, aber praktisch.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "nebenan",
+    "meaning": "在隔壁",
+    "sentence": "Sie wohnen nebenan.",
+    "variant": null
+  },
+  {
+    "gender": "die",
+    "word": "Couch",
+    "meaning": "长沙发椅，睡椅",
+    "sentence": "Wang Hongliang möchte eine Couch für die neue Wohnung kaufen.",
+    "variant": "Couches"
+  },
+  {
+    "gender": "das",
+    "word": "Weihnachten",
+    "meaning": "圣诞节",
+    "sentence": "Weihnachten feiert man in Deutschland schon am 24. Dezember.",
+    "variant": null
+  },
+  {
+    "gender": null,
+    "word": "gratulieren",
+    "meaning": "祝贺，庆贺",
+    "sentence": "Ich gratuliere Ihnen herzlich zum Geburtstag!",
+    "variant": "gratuliert"
+  },
+  {
+    "gender": "die",
+    "word": "Hochzeit",
+    "meaning": "婚礼",
+    "sentence": "Ich gratuliere euch ganz herzlich zur Hochzeit!",
+    "variant": "Hochzeiten"
+  },
+  {
+    "gender": "der",
+    "word": "Erfolg",
+    "meaning": "成功，成就",
+    "sentence": "Der Lehrer gratuliert seinen Studenten zu ihrem Erfolg bei der Prüfung.",
+    "variant": "Erfolge"
+  },
+  {
+    "gender": "die",
+    "word": "Reise",
+    "meaning": "旅行",
+    "sentence": "Ich wünsche Ihnen eine gute Reise!",
+    "variant": "Reisen"
+  },
+  {
+    "gender": "die",
+    "word": "Fahrt",
+    "meaning": "旅行，行程",
+    "sentence": "Der Vater wünscht seinem Sohn gute Fahrt.",
+    "variant": "Fahrten"
+  },
+  {
+    "gender": "die",
+    "word": "Besserung",
+    "meaning": "好转，改变，变好",
+    "sentence": "Gute Besserung!",
+    "variant": null
+  },
+  {
+    "gender": "das",
+    "word": "Vergnügen",
+    "meaning": "愉快，高兴，娱乐，消遣",
+    "sentence": "Die Sekretärin wünscht ihrem Chef viel Vergnügen im Urlaub.",
+    "variant": "Vergnügen"
+  },
+  {
+    "gender": "das",
+    "word": "Wochenende",
+    "meaning": "周末",
+    "sentence": "Die Studenten wünschen sich ein schönes Wochenende.",
+    "variant": "Wochenenden"
+  },
+  {
+    "gender": "das",
+    "word": "Wörterbuch",
+    "meaning": "字典",
+    "sentence": "Wie viel kostet das Wörterbuch?",
+    "variant": "Wörterbücher"
+  },
+  {
+    "gender": null,
+    "word": "unterwegs",
+    "meaning": "途中",
+    "sentence": "Man muss es unterwegs immer mitnehmen",
+    "variant": null
+  }
+]
