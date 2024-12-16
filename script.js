@@ -7,6 +7,7 @@ let true_idx = []; // 映射当前的访问顺序
 const jsonFiles = [
     'Einheit 5.json',
     'Einheit 6.json',
+    'Einheit 7.json',
 ];
 
 // 添加 JSON 文件名到下拉菜单
