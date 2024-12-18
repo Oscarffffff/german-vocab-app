@@ -6,8 +6,8 @@ A lightweight and customizable **German vocabulary web application** to help you
 
 ## 🌐 Project Links
 
-- Demo: [https://Oscarffffff.github.io/german-vocab-app/](https://Oscarffffff.github.io/german-vocab-app/)
-- Repository: [https://github.com/Oscarffffff/german-vocab-app](https://github.com/Oscarffffff/german-vocab-app)
+- Demo: [https://winghofeng.github.io/german-vocab-app/](https://winghofeng.github.io/german-vocab-app/)
+- Repository: [https://github.com/winghofeng/german-vocab-app](https://github.com/winghofeng/german-vocab-app)
 
 ## 🚀 Features
 
@@ -45,7 +45,7 @@ A lightweight and customizable **German vocabulary web application** to help you
 1. **Download the Project Code**:
 
    ```bash
-   git clone https://github.com/Oscarffffff/german-vocab-app.git
+   git clone https://github.com/winghofeng/german-vocab-app.git
    cd german-vocab-app
    ```
 
@@ -102,8 +102,8 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 🌐 项目链接
 
-- Demo: https://Oscarffffff.github.io/german-vocab-app/
-- Repo: https://github.com/Oscarffffff/german-vocab-app
+- Demo: https://winghofeng.github.io/german-vocab-app/
+- Repo: https://github.com/winghofeng/german-vocab-app
 
 ## 🚀 功能简介
 
@@ -141,7 +141,7 @@ See the [LICENSE](LICENSE) file for details.
 1. **下载项目代码**：
 
    ```bash
-   git clone https://github.com/Oscarffffff/german-vocab-app.git
+   git clone https://github.com/winghofeng/german-vocab-app.git
    cd german-vocab-app
    ```
 
